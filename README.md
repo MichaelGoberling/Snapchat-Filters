@@ -4,6 +4,6 @@ Hello! This Repository holds the folders with resources, scripts, and project fi
 Skills for this project includes: 
 
 1. JavaScript
-  a. Snapchat API
+2. Snapchat JS API
 2. Lens Studio
 3. Resource Management
