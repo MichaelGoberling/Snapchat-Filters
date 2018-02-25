@@ -1,0 +1,592 @@
+{
+    "lens_id": "c87a9bc1-f723-4c2e-be98-7025b52b0d46",
+    "version": "0",
+    "lastChanged": "1518467482110",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "c0dae0321d9d31ab46b86f2eeb36156d",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "SpongebobTimecards"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1518230554004908:142008",
+                    "name": "\/Resources\/Resource3.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Examine\/Public\/Scripts\/main_controller.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1518230559836920:142077",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1518230560120479:142104",
+                    "name": "\/Resources\/Resource6",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518230564575889:142278",
+                    "name": "\/Resources\/Resource8",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1518230566552382:142415",
+                    "name": "\/Resources\/Resource10",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1518230568562362:142566",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1518230587819156:142718",
+                    "name": "\/Resources\/Resource13.jpg",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/3f165bf58a9d58ff601f263345c75cfb.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1518230588007466:142729",
+                    "name": "\/Resources\/Resource14.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/c70.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1518230588163310:142740",
+                    "name": "\/Resources\/Resource15.jpg",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/KU6K3d8.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1518230588289026:142751",
+                    "name": "\/Resources\/Resource16.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/raw.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1518295457359774:4916",
+                    "name": "\/Resources\/Resource17.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/y2mate.com - spongebob_2000_years_later_download_link_TxSrZFB9AT0.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1518295512350060:5090",
+                    "name": "\/Resources\/Resource18.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_2.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1518296352839357:8693",
+                    "name": "\/Resources\/Resource19.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_4.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1518296643577833:10934",
+                    "name": "\/Resources\/Resource20.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/ONE_ETERNITY_LATER_HD[Mp3Converter.net]-[AudioTrimmer.com].mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1518296643665936:10945",
+                    "name": "\/Resources\/Resource21.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/y2mate.com - 16_paranoia_filled_days_later_spongebob_time_card_78_d_lD_b4n618.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1518296643776199:10956",
+                    "name": "\/Resources\/Resource22.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/y2mate.com - spongebob_timecard_so_much_later_u85KGTgDRJY.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1518297112171028:14370",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/frame_1_delay-0.2s.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1518297120103437:14400",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1518297928288648:18947",
+                    "name": "\/Resources\/Resource26.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/y2mate.com - a_few_moments_later_hd_-2Z0Y3Kk8nU-[AudioTrimmer.com].mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1518297928403996:18958",
+                    "name": "\/Resources\/Resource27.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/y2mate.com - several_bad_puns_later_9J9FNLF-5oE.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1518297937936314:18969",
+                    "name": "\/Resources\/Resource28.jpg",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/a few moments.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1518297938090306:18980",
+                    "name": "\/Resources\/Resource29.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/Dynamic Sponge\/severl bad puns.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1518297975482183:20214",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1518297978463738:20517",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1518298823905232:29021",
+                    "name": "\/Resources\/Resource33.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Agility\/99 Agility\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518230559699004:142019",
+                "1": "1518230559837907:142084",
+                "2": "1518230559852052:142085",
+                "3": "1518230564278885:142259",
+                "4": "1518230566297564:142396",
+                "5": "1518230568356828:142547",
+                "6": "1518230801181059:143171",
+                "7": "1518295395391060:4283",
+                "8": "1518295406415409:4435",
+                "9": "1518295409078070:4590",
+                "10": "1518295418536602:4749",
+                "11": "1518297119820554:14381",
+                "12": "1518297968800825:19677",
+                "13": "1518297970934028:19927",
+                "14": "1518297975481632:20207",
+                "15": "1518297978463537:20510"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "main_controller",
+                                "resourceId": "3",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "play audio",
+                                "resourceId": "18",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "delay",
+                                "resourceId": "19",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Script_3",
+                                "resourceId": "33",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Graphics",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "3f165bf58a9d58ff601f263345c75cfb",
+                                "resourceId": "13",
+                                "extension": "jpg"
+                            },
+                            {
+                                "name": "c70",
+                                "resourceId": "14",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "KU6K3d8",
+                                "resourceId": "15",
+                                "extension": "jpg"
+                            },
+                            {
+                                "name": "raw",
+                                "resourceId": "16",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "instructions",
+                                "resourceId": "23",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "a few moments",
+                                "resourceId": "28",
+                                "extension": "jpg"
+                            },
+                            {
+                                "name": "severl bad puns",
+                                "resourceId": "29",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Audio",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "y2mate",
+                                "resourceId": "17",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "ONE_ETERNITY_LATER_HD[Mp3Converter",
+                                "resourceId": "20",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "y2mate_2",
+                                "resourceId": "21",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "y2mate_3",
+                                "resourceId": "22",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "y2mate_4",
+                                "resourceId": "26",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "y2mate_5",
+                                "resourceId": "27",
+                                "extension": "mp3"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "4",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "3",
+                    "path": "Scripts\/main_controller.js"
+                },
+                {
+                    "id": "13",
+                    "path": "Graphics\/3f165bf58a9d58ff601f263345c75cfb.jpg"
+                },
+                {
+                    "id": "14",
+                    "path": "Graphics\/c70.png"
+                },
+                {
+                    "id": "15",
+                    "path": "Graphics\/KU6K3d8.jpg"
+                },
+                {
+                    "id": "16",
+                    "path": "Graphics\/raw.png"
+                },
+                {
+                    "id": "17",
+                    "path": "Audio\/y2mate.mp3"
+                },
+                {
+                    "id": "18",
+                    "path": "Scripts\/play audio.js"
+                },
+                {
+                    "id": "19",
+                    "path": "Scripts\/delay.js"
+                },
+                {
+                    "id": "20",
+                    "path": "Audio\/ONE_ETERNITY_LATER_HD[Mp3Converter.mp3"
+                },
+                {
+                    "id": "21",
+                    "path": "Audio\/y2mate_2.mp3"
+                },
+                {
+                    "id": "22",
+                    "path": "Audio\/y2mate_3.mp3"
+                },
+                {
+                    "id": "23",
+                    "path": "Graphics\/instructions.png"
+                },
+                {
+                    "id": "26",
+                    "path": "Audio\/y2mate_4.mp3"
+                },
+                {
+                    "id": "27",
+                    "path": "Audio\/y2mate_5.mp3"
+                },
+                {
+                    "id": "28",
+                    "path": "Graphics\/a few moments.jpg"
+                },
+                {
+                    "id": "29",
+                    "path": "Graphics\/severl bad puns.png"
+                },
+                {
+                    "id": "33",
+                    "path": "Scripts\/Script_3.js"
+                }
+            ]
+        }
+    }
+}

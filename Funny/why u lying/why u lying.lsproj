@@ -1,0 +1,231 @@
+{
+    "lens_id": "58ba278c-809a-4e94-abad-9a1d3ddfbe1c",
+    "version": "0",
+    "lastChanged": "1518722554972",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "36ee7935917a684a4d877ff8e8aac3b7",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "why u always lying"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1518669399019067:2262",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1518669399269358:2289",
+                    "name": "\/Resources\/Resource5",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518669573684572:2613",
+                    "name": "\/Resources\/Resource8.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/portrait reveal\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1518670161000995:3505",
+                    "name": "\/Resources\/Resource9.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Downloads\/Ig-DowngoesFraser_OFFICIAL_FULL_LENGTH_Why_You_Always_Lying_video[Mp3Converter.net]-[AudioTrimmer.com].mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1518670720110340:5453",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-AAESau\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1518712972271956:6324",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-QBuhQr\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518669398874020:2204",
+                "1": "1518669399019958:2269",
+                "2": "1518669399033637:2270",
+                "3": "1518669477015489:2600",
+                "4": "1518670165621813:3529"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script_3",
+                        "resourceId": "8",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Ig-DowngoesFraser_OFFICIAL_FULL_LENGTH_Why_You_Always_Lying_video[Mp3Converter",
+                        "resourceId": "9",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "12",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation_2",
+                        "resourceId": "13",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Script_3.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Ig-DowngoesFraser_OFFICIAL_FULL_LENGTH_Why_You_Always_Lying_video[Mp3Converter.mp3"
+                },
+                {
+                    "id": "12",
+                    "path": "animation"
+                },
+                {
+                    "id": "13",
+                    "path": "animation_2"
+                }
+            ]
+        }
+    }
+}

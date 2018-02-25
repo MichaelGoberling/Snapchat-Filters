@@ -1,0 +1,314 @@
+{
+    "lens_id": "5da31480-a0bb-4b2c-ac93-53aae633e605",
+    "version": "0",
+    "lastChanged": "1517845043723",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "aa3962a21819a7d350f9ec01cd25e7ed",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "99 Runecrafting"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517843385173446:17547",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1517843385422538:17570",
+                    "name": "\/Resources\/Resource5",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1517843387014184:17714",
+                    "name": "\/Resources\/Resource7",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517843391608061:17844",
+                    "name": "\/Resources\/Resource9",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1517843394151036:17988",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1517843402017698:18137",
+                    "name": "\/Resources\/Resource12.PNG",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Runecrafting\/99 Runecrafting.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1517843402195501:18160",
+                    "name": "\/Resources\/Resource13.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Runecrafting\/Runecrafting_Level_Up_1 (online-audio-converter.com).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1517843409246890:18183",
+                    "name": "\/Resources\/Resource14.PNG",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Instructions.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1517843409429150:18206",
+                    "name": "\/Resources\/Resource15.PNG",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/login screen.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1517843425116531:18229",
+                    "name": "\/Resources\/Resource16.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Crafting\/99 Crafting\/Public\/99Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1517843469004261:18624",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-zxPK5t\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517843384998188:17489",
+                "1": "1517843385174373:17554",
+                "2": "1517843385188529:17555",
+                "3": "1517843386824686:17699",
+                "4": "1517843389299046:17821",
+                "5": "1517843391411428:17829",
+                "6": "1517843393906696:17973",
+                "7": "1517843507481684:19389"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    },
+                    {
+                        "name": "99 Runecrafting",
+                        "resourceId": "12",
+                        "extension": "PNG"
+                    },
+                    {
+                        "name": "Runecrafting_Level_Up_1 (online-audio-converter",
+                        "resourceId": "13",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Instructions",
+                        "resourceId": "14",
+                        "extension": "PNG"
+                    },
+                    {
+                        "name": "login screen",
+                        "resourceId": "15",
+                        "extension": "PNG"
+                    },
+                    {
+                        "name": "99Script",
+                        "resourceId": "16",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "17",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "12",
+                    "path": "99 Runecrafting.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Runecrafting_Level_Up_1 (online-audio-converter.mp3"
+                },
+                {
+                    "id": "14",
+                    "path": "Instructions.png"
+                },
+                {
+                    "id": "15",
+                    "path": "login screen.png"
+                },
+                {
+                    "id": "16",
+                    "path": "99Script.js"
+                },
+                {
+                    "id": "17",
+                    "path": "animation"
+                }
+            ]
+        }
+    }
+}

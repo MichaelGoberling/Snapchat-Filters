@@ -1,0 +1,281 @@
+{
+    "lens_id": "b5b1aa5e-bab0-488a-9394-8f9c2ecb13da",
+    "version": "0",
+    "lastChanged": "1518505877087",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "634c823b1a9c35cb656d8ecc89f47b3c",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Did Dis Dude"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1518504798567451:24764",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1518504798841823:24791",
+                    "name": "\/Resources\/Resource5",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1518504811275255:24924",
+                    "name": "\/Resources\/Resource6",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-yOyCDZ\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518504942456915:25199",
+                    "name": "\/Resources\/Resource8.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/squidville gate\/gate opening\/Public\/tap_controller.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1518504989627369:25942",
+                    "name": "\/Resources\/Resource9.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Downloads\/John_Starks_-_Man_Did_This_Dude_Just_Did_This[Mp3Converter.net]-[AudioTrimmer.com] (1).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1518505228358587:27031",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1518505228373808:27041",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1518505619806572:27279",
+                    "name": "\/Resources\/Resource13.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1518505619840534:27289",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1518505629092636:27468",
+                    "name": "\/Resources\/Resource15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518504798447729:24706",
+                "1": "1518504798568398:24771",
+                "2": "1518504798586187:24772",
+                "3": "1518504841311192:25099",
+                "4": "1518504843577246:25184",
+                "5": "1518505224679287:27026",
+                "6": "1518505619631598:27270"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "6",
+                        "extension": ""
+                    },
+                    {
+                        "name": "tap_controller_2",
+                        "resourceId": "8",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "John_Starks_-_Man_Did_This_Dude_Just_Did_This[Mp3Converter",
+                        "resourceId": "9",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "15",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "6",
+                    "path": "animation"
+                },
+                {
+                    "id": "8",
+                    "path": "tap_controller_2.js"
+                },
+                {
+                    "id": "9",
+                    "path": "John_Starks_-_Man_Did_This_Dude_Just_Did_This[Mp3Converter.mp3"
+                },
+                {
+                    "id": "15",
+                    "path": "Script.js"
+                }
+            ]
+        }
+    }
+}

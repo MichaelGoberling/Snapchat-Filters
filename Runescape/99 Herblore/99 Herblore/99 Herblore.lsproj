@@ -1,0 +1,350 @@
+{
+    "lens_id": "35b17611-961b-44a9-9326-85033f7b17f6",
+    "version": "0",
+    "lastChanged": "1517720193893",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "",
+            "icon_path": "icon.png",
+            "hints": "",
+            "lens": "99 Herblore"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517716768708730:66550",
+                    "name": "\/Resources\/Resource3.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Slayer\/99 Slayer\/Public\/login screen.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1517716768839989:66561",
+                    "name": "\/Resources\/Resource4.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Slayer\/99 Slayer\/Public\/Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1517716768903503:66572",
+                    "name": "\/Resources\/Resource5.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Slayer\/99 Slayer\/Public\/Script_2.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1517716768981776:66583",
+                    "name": "\/Resources\/Resource6.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Slayer\/99 Slayer\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517717163015052:66605",
+                    "name": "\/Resources\/Resource8.PNG",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Herblore\/99 herblore.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517717163201792:66616",
+                    "name": "\/Resources\/Resource9.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Herblore\/Herblore_Level_up (online-audio-converter.com).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1517717166699324:66685",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1517717166978035:66708",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1517717168973644:66916",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1517717171001425:67070",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1517717275384682:68602",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-GN2aKw\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1517719989037330:9116",
+                    "name": "\/Resources\/Resource31",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1517720124044882:11113",
+                    "name": "\/Resources\/Resource33",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-bkIOm7\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517717166535671:66627",
+                "1": "1517717166700320:66692",
+                "2": "1517717166721182:66693",
+                "3": "1517717168727280:66901",
+                "4": "1517717170726029:67055",
+                "5": "1517717180665898:67392",
+                "6": "1517717219358371:68148",
+                "7": "1517719988792926:9101"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "login screen",
+                        "resourceId": "3",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "4",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_2",
+                        "resourceId": "5",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_3",
+                        "resourceId": "6",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "99 herblore",
+                        "resourceId": "8",
+                        "extension": "PNG"
+                    },
+                    {
+                        "name": "Herblore_Level_up (online-audio-converter",
+                        "resourceId": "9",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "10",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "17",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation_3",
+                        "resourceId": "33",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "3",
+                    "path": "login screen.png"
+                },
+                {
+                    "id": "4",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "5",
+                    "path": "Script_2.js"
+                },
+                {
+                    "id": "6",
+                    "path": "Script_3.js"
+                },
+                {
+                    "id": "8",
+                    "path": "99 herblore.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Herblore_Level_up (online-audio-converter.mp3"
+                },
+                {
+                    "id": "17",
+                    "path": "animation"
+                },
+                {
+                    "id": "33",
+                    "path": "animation_3"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "lens_id": "87b33e2d-b425-4bc1-a946-905631ea7238",
+    "version": "0",
+    "lastChanged": "1518500352010",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "d57aa51d6dbc49d2987dda1532af9638",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "gate opening"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517738597157237:748",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1517738597491886:771",
+                    "name": "\/Resources\/Resource5",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1517738803275969:1004",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/spongebob in and out\/in_and_out\/Public\/Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517738803400505:1027",
+                    "name": "\/Resources\/Resource8.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/spongebob in and out\/in_and_out\/Public\/Script_2.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517738803518756:1050",
+                    "name": "\/Resources\/Resource9.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/spongebob in and out\/in_and_out\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1517738803662189:1073",
+                    "name": "\/Resources\/Resource10.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/spongebob in and out\/in_and_out\/Public\/Script_4.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1518494253841073:16891",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1518496353560379:22553",
+                    "name": "\/Resources\/Resource20",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-bEgzzz\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517738596977217:690",
+                "1": "1517738597157882:755",
+                "2": "1517738597185374:756",
+                "3": "1518494390774319:17757"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script_2",
+                        "resourceId": "8",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_3",
+                        "resourceId": "9",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_4",
+                        "resourceId": "10",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_5",
+                        "resourceId": "14",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "tap_controller",
+                        "resourceId": "7",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "20",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "7",
+                    "path": "tap_controller.js"
+                },
+                {
+                    "id": "8",
+                    "path": "Script_2.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Script_3.js"
+                },
+                {
+                    "id": "10",
+                    "path": "Script_4.js"
+                },
+                {
+                    "id": "14",
+                    "path": "Script_5.js"
+                },
+                {
+                    "id": "20",
+                    "path": "animation"
+                }
+            ]
+        }
+    }
+}

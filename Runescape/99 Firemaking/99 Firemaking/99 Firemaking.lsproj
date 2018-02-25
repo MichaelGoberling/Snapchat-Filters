@@ -1,0 +1,314 @@
+{
+    "lens_id": "193fb54a-cf36-4e99-9745-ec4bfea90ea8",
+    "version": "0",
+    "lastChanged": "1518084924557",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "72bccb154d8637756127447ae332d0a1",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "99 Firemaking"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1518082489814773:2671",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1518082490109350:2698",
+                    "name": "\/Resources\/Resource5",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1518082491321572:2846",
+                    "name": "\/Resources\/Resource7",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1518082492642185:2972",
+                    "name": "\/Resources\/Resource9",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1518082494053783:3118",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1518082511489769:3259",
+                    "name": "\/Resources\/Resource12.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Cooking\/99 Cooking\/Public\/99Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1518082527730223:3521",
+                    "name": "\/Resources\/Resource13.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Firemaking\/Firemaking_Level_up_1 (online-audio-converter.com).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1518082530468295:3532",
+                    "name": "\/Resources\/Resource14.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Firemaking\/99 firemaking.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1518082543675076:3559",
+                    "name": "\/Resources\/Resource15.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/login screen.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1518082552682258:3586",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-bXEalQ\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1518082563450138:3645",
+                    "name": "\/Resources\/Resource17.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Instructions.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518082489676687:2613",
+                "1": "1518082489815272:2678",
+                "2": "1518082489844892:2679",
+                "3": "1518082491025423:2827",
+                "4": "1518082492365800:2953",
+                "5": "1518082493806449:3099",
+                "6": "1518082515677676:3270",
+                "7": "1518082688332160:4963"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    },
+                    {
+                        "name": "99Script",
+                        "resourceId": "12",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Firemaking_Level_up_1 (online-audio-converter",
+                        "resourceId": "13",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "99 firemaking",
+                        "resourceId": "14",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "login screen",
+                        "resourceId": "15",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "16",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Instructions",
+                        "resourceId": "17",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "12",
+                    "path": "99Script.js"
+                },
+                {
+                    "id": "13",
+                    "path": "Firemaking_Level_up_1 (online-audio-converter.mp3"
+                },
+                {
+                    "id": "14",
+                    "path": "99 firemaking.png"
+                },
+                {
+                    "id": "15",
+                    "path": "login screen.png"
+                },
+                {
+                    "id": "16",
+                    "path": "animation"
+                },
+                {
+                    "id": "17",
+                    "path": "Instructions.png"
+                }
+            ]
+        }
+    }
+}

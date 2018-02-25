@@ -1,0 +1,231 @@
+{
+    "lens_id": "6be0750d-e6ea-4dd8-8d5c-29e019f51bfb",
+    "version": "0",
+    "lastChanged": "1518489530392",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a05afcde2af2578c4f4c91003adc5617",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "The Simpsons Intro"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1518475283918218:4478",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1518475284197945:4505",
+                    "name": "\/Resources\/Resource6",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518475376697144:4871",
+                    "name": "\/Resources\/Resource8.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/John Wall Neva Eva\/John Wall Never Ever\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1518476866194433:6288",
+                    "name": "\/Resources\/Resource15.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_4.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1518488522401932:12125",
+                    "name": "\/Resources\/Resource32",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-SdhDJc\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1518488777210011:12857",
+                    "name": "\/Resources\/Resource33.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Simpsons\/intro.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1518475283755201:4420",
+                "1": "1518475283919492:4485",
+                "2": "1518475283936960:4486",
+                "3": "1518475474258287:5027",
+                "4": "1518488768604250:12757"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "4",
+                        "extension": ""
+                    },
+                    {
+                        "name": "touch_controller",
+                        "resourceId": "8",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "delay template",
+                        "resourceId": "15",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "32",
+                        "extension": ""
+                    },
+                    {
+                        "name": "The_Simpsons_Intro_Season_2-20_1990-2008[Mp3Converter",
+                        "resourceId": "33",
+                        "extension": "mp3"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "touch_controller.js"
+                },
+                {
+                    "id": "15",
+                    "path": "delay template.js"
+                },
+                {
+                    "id": "32",
+                    "path": "animation"
+                },
+                {
+                    "id": "33",
+                    "path": "The_Simpsons_Intro_Season_2-20_1990-2008[Mp3Converter.mp3"
+                }
+            ]
+        }
+    }
+}

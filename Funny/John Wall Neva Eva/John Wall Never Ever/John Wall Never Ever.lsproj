@@ -1,0 +1,588 @@
+{
+    "lens_id": "a573e40b-9dec-4abd-82d3-2dbdc8589c2b",
+    "version": "0",
+    "lastChanged": "1517907662094",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "ee1c605f3a5f4e3700b63b5c508bfdc5",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "John Wall Act Like"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517864842021707:47528",
+                    "name": "\/Resources\/Resource3.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/John Wall Neva Eva\/John_Wall_asks_Bradley_Beal_the_hard-hitting_questions_ESPN[Mp3Converter.net]-[AudioTrimmer.com]-[AudioTrimmer.com].mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1517865556171990:49778",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1517865826827047:51821",
+                    "name": "\/Resources\/Resource15.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/John Wall Neva Eva\/John Wall Never Ever\/Public\/Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1517866547414893:54281",
+                    "name": "\/Resources\/Resource16.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_2.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1517866552430571:54376",
+                    "name": "\/Resources\/Resource17.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_3.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1517874365725988:66101",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-BAIX6a\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1517882062141405:2992",
+                    "name": "\/Resources\/Resource35",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-zxPK5t\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1517882424267511:4356",
+                    "name": "\/Resources\/Resource37",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-BAIX6a\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1517890882625147:3921",
+                    "name": "\/Resources\/Resource38",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-zxPK5t\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1517891565222244:6502",
+                    "name": "\/Resources\/Resource48.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1517891761121941:8931",
+                    "name": "\/Resources\/Resource54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1517891840696254:9899",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1517891840698542:9909",
+                    "name": "\/Resources\/Resource59.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1517891840701448:9919",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1517891840704400:9929",
+                    "name": "\/Resources\/Resource61.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1517891895097336:9966",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1517891895153307:9976",
+                    "name": "\/Resources\/Resource63",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1517891965232810:10062",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1517891965464292:10085",
+                    "name": "\/Resources\/Resource66",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1517892731544949:19339",
+                    "name": "\/Resources\/Resource75.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1517894076817271:34233",
+                    "name": "\/Resources\/Resource78.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1517895382009817:45260",
+                    "name": "\/Resources\/Resource83.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/John Wall Neva Eva\/ezgif-4-46bfc388e2-gif-png\/frame_32_delay-0.1s.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1517895660444178:46907",
+                    "name": "\/Resources\/Resource87",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1517895660446504:46917",
+                    "name": "\/Resources\/Resource88.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517864830833801:47490",
+                "1": "1517865140420821:49609",
+                "2": "1517891965122873:10004",
+                "3": "1517891965233996:10069",
+                "4": "1517891965242643:10070"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Diffuse Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "59",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "61",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lookup Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Main",
+                                "resourceId": "62",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlit Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "88",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "John_Wall_asks_Bradley_Beal_the_hard-hitting_questions_ESPN[Mp3Converter",
+                        "resourceId": "3",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "10",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "15",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_2",
+                        "resourceId": "16",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_3",
+                        "resourceId": "17",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "animation_5",
+                        "resourceId": "26",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "35",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation_2",
+                        "resourceId": "37",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation_3",
+                        "resourceId": "38",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Box",
+                        "resourceId": "48",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Script_4",
+                        "resourceId": "54",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Diffuse",
+                        "resourceId": "58",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Lookup",
+                        "resourceId": "63",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output_2",
+                        "resourceId": "64",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script_5",
+                        "resourceId": "75",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_6",
+                        "resourceId": "78",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "frame_32_delay-0",
+                        "resourceId": "83",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Unlit",
+                        "resourceId": "87",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "3",
+                    "path": "John_Wall_asks_Bradley_Beal_the_hard-hitting_questions_ESPN[Mp3Converter.mp3"
+                },
+                {
+                    "id": "15",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "16",
+                    "path": "Script_2.js"
+                },
+                {
+                    "id": "17",
+                    "path": "Script_3.js"
+                },
+                {
+                    "id": "26",
+                    "path": "animation_5"
+                },
+                {
+                    "id": "35",
+                    "path": "animation"
+                },
+                {
+                    "id": "37",
+                    "path": "animation_2"
+                },
+                {
+                    "id": "38",
+                    "path": "animation_3"
+                },
+                {
+                    "id": "48",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "54",
+                    "path": "Script_4.js"
+                },
+                {
+                    "id": "59",
+                    "path": "Diffuse Textures\/Base.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Diffuse Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "61",
+                    "path": "Diffuse Textures\/Normal.png"
+                },
+                {
+                    "id": "62",
+                    "path": "Lookup Textures\/Main.png"
+                },
+                {
+                    "id": "75",
+                    "path": "Script_5.js"
+                },
+                {
+                    "id": "78",
+                    "path": "Script_6.js"
+                },
+                {
+                    "id": "83",
+                    "path": "frame_32_delay-0.png"
+                },
+                {
+                    "id": "88",
+                    "path": "Unlit Textures\/Base.png"
+                }
+            ]
+        }
+    }
+}

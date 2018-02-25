@@ -1,0 +1,401 @@
+{
+    "lens_id": "aa1ee6c5-b0d6-4f6f-9a26-2bc0e37addec",
+    "version": "0",
+    "lastChanged": "1517845164696",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "29b70016bfa7051996a67e771d754937",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "99 Thieving"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517703689360839:85341",
+                    "name": "\/Resources\/Resource3.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 theiving.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1517703693518548:85352",
+                    "name": "\/Resources\/Resource4.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 thieving1.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1517703699532993:85421",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517703746681840:85635",
+                    "name": "\/Resources\/Resource8.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Magic\/99 magic\/Public\/99Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517703806172279:85907",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1517703818701872:86483",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1517703818892518:86506",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1517703822077897:86776",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1517705627311539:88468",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1517706034383131:90726",
+                    "name": "\/Resources\/Resource22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1517709072465603:96745",
+                    "name": "\/Resources\/Resource29.mp3",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/99 Theiving\/99 Theiving\/Thieving_Level_Up_2 (online-audio-converter.com).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1517709702754431:99923",
+                    "name": "\/Resources\/Resource31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1517713731835638:41490",
+                    "name": "\/Resources\/Resource32",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-GN2aKw\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1517720460797293:16675",
+                    "name": "\/Resources\/Resource36",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-21ci3k\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1517783360936500:65428",
+                    "name": "\/Resources\/Resource37.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Instructions.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1517783384363591:66178",
+                    "name": "\/Resources\/Resource39",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517703778295934:85787",
+                "1": "1517703818592677:86425",
+                "2": "1517703818702566:86490",
+                "3": "1517703818718945:86491",
+                "4": "1517703821906254:86761",
+                "5": "1517705627128897:88453",
+                "6": "1517709671048715:99214",
+                "7": "1517783384057008:66163"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "99 theiving",
+                        "resourceId": "3",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "99 thieving1",
+                        "resourceId": "4",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "5",
+                        "extension": ""
+                    },
+                    {
+                        "name": "ToggleBillboards",
+                        "resourceId": "8",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Orthographic Camera Output_2",
+                        "resourceId": "9",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output_3",
+                        "resourceId": "14",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "22",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Thieving_Level_Up_2 (online-audio-converter",
+                        "resourceId": "29",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Script_2",
+                        "resourceId": "31",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "animation",
+                        "resourceId": "32",
+                        "extension": ""
+                    },
+                    {
+                        "name": "animation_2",
+                        "resourceId": "36",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Instructions",
+                        "resourceId": "37",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "3",
+                    "path": "99 theiving.png"
+                },
+                {
+                    "id": "4",
+                    "path": "99 thieving1.png"
+                },
+                {
+                    "id": "8",
+                    "path": "ToggleBillboards.js"
+                },
+                {
+                    "id": "22",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "29",
+                    "path": "Thieving_Level_Up_2 (online-audio-converter.mp3"
+                },
+                {
+                    "id": "31",
+                    "path": "Script_2.js"
+                },
+                {
+                    "id": "32",
+                    "path": "animation"
+                },
+                {
+                    "id": "36",
+                    "path": "animation_2"
+                },
+                {
+                    "id": "37",
+                    "path": "Instructions.png"
+                }
+            ]
+        }
+    }
+}

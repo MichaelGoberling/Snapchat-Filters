@@ -1,0 +1,665 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1518387265705",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Animations"
+                    ],
+                    [
+                        "Stills"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "11c65098fa8684389b68aaa354a3722d",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "OSRS Oh Dear"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1517972231059581:11473",
+                    "1518085713510477:10894"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1517944429158271:13152",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1517953170822910:56542",
+                    "name": "\/Resources\/Resource12.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Funny\/John Wall Neva Eva\/John Wall Never Ever\/Public\/Script_6.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1517954122456232:56819",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-DSSn9G\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1517954173724854:57450",
+                    "name": "\/Resources\/Resource18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1517956653659794:10280",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-n6xaRv\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1517956947700440:11647",
+                    "name": "\/Resources\/Resource27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1517957033717798:12794",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Crafting\/99 Crafting\/Public\/Instructions.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1517957140074966:14316",
+                    "name": "\/Resources\/Resource31.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Crafting\/99 Crafting\/Public\/login screen.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1517957243104071:16541",
+                    "name": "\/Resources\/Resource34",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-WWdO2l\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1517958438870069:28162",
+                    "name": "\/Resources\/Resource45",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-YEvGln\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1517972481807194:39004",
+                    "name": "\/Resources\/Resource71",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1517973570352680:52633",
+                    "name": "\/Resources\/Resource90.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Spongebob\/One Eternity Later\/One Eternity Later\/Public\/Script_4.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1517973768515771:55682",
+                    "name": "\/Resources\/Resource91.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Oh Dear You Are Dead\/73_hitsplat_transparent.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1517974618537736:62363",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Oh Dear You Are Dead\/blue hitsplat\/frames\/frame_4_delay-0.2s.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "94",
+                    "uid": "1517975504816499:68186",
+                    "name": "\/Resources\/Resource71",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1517976241382699:79051",
+                    "name": "\/Resources\/Resource101.js",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/99 Slayer\/99 Slayer\/Public\/Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1517976813668733:88091",
+                    "name": "\/Resources\/Resource103",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "105",
+                    "uid": "1517978149883761:90561",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "106",
+                    "uid": "1517978174345148:90859",
+                    "name": "\/Resources\/Resource106.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Oh Dear You Are Dead\/hes probably seen.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1517978174546059:90882",
+                    "name": "\/Resources\/Resource107.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Oh Dear You Are Dead\/tries so hard.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "108",
+                    "uid": "1518034789425749:109545",
+                    "name": "\/Resources\/Resource108.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Examine\/2000px-Black_Cursor.svg.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1518034800304907:109841",
+                    "name": "\/Resources\/Resource71",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1518085105561084:18058",
+                    "name": "\/Resources\/Resource110.png",
+                    "sourceFilePath": "C:\/Users\/micha\/Desktop\/Snapchat Filters\/Runescape\/Examine\/examine.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1518085165098569:18612",
+                    "name": "\/Resources\/Resource71",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1518085648431592:33921",
+                    "name": "\/Resources\/Resource112.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "120",
+                    "uid": "1518205216573639:29748",
+                    "name": "\/Resources\/Resource120",
+                    "sourceFilePath": "C:\/Users\/micha\/AppData\/Local\/Temp\/Lens Studio-PueYrO\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "122",
+                    "uid": "1518215496284481:43330",
+                    "name": "\/Resources\/Resource122",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "124",
+                    "uid": "1518215498459700:43704",
+                    "name": "\/Resources\/Resource124",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "126",
+                    "uid": "1518215500276561:44092",
+                    "name": "\/Resources\/Resource126",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517944429017564:13094",
+                "1": "1517959072599815:4042",
+                "2": "1517972481806807:38994",
+                "3": "1517975504816177:68179",
+                "4": "1517975947071225:73682",
+                "5": "1517976813428376:88075",
+                "6": "1517976813431993:88076",
+                "7": "1517978149644861:90546",
+                "8": "1518034800304216:109834",
+                "9": "1518085165098131:18605",
+                "10": "1518215496034698:43311",
+                "11": "1518215498280059:43685",
+                "12": "1518215500089192:44073"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "motion_tracking_controller",
+                                "resourceId": "12",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "play_animation",
+                                "resourceId": "18",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "main_controller",
+                                "resourceId": "27",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "delay",
+                                "resourceId": "90",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Script",
+                                "resourceId": "101",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "motion_tracking_controller_2",
+                                "resourceId": "112",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Animations",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "x click",
+                                "resourceId": "13",
+                                "extension": ""
+                            },
+                            {
+                                "name": "redhit",
+                                "resourceId": "26",
+                                "extension": ""
+                            },
+                            {
+                                "name": "xp",
+                                "resourceId": "34",
+                                "extension": ""
+                            },
+                            {
+                                "name": "bluehit",
+                                "resourceId": "45",
+                                "extension": ""
+                            },
+                            {
+                                "name": "examine",
+                                "resourceId": "120",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stills",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Instructions",
+                                "resourceId": "30",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "login screen",
+                                "resourceId": "31",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "73_hitsplat_transparent",
+                                "resourceId": "91",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "bluehit_transparent",
+                                "resourceId": "93",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "hes probably seen",
+                                "resourceId": "106",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "tries so hard",
+                                "resourceId": "107",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "mouse-cursor-png-mouse-cursor-png-566",
+                                "resourceId": "108",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "examine",
+                                "resourceId": "110",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "3",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "12",
+                    "path": "Scripts\/motion_tracking_controller.js"
+                },
+                {
+                    "id": "13",
+                    "path": "Animations\/x click"
+                },
+                {
+                    "id": "18",
+                    "path": "Scripts\/play_animation.js"
+                },
+                {
+                    "id": "26",
+                    "path": "Animations\/redhit"
+                },
+                {
+                    "id": "27",
+                    "path": "Scripts\/main_controller.js"
+                },
+                {
+                    "id": "30",
+                    "path": "Stills\/Instructions.png"
+                },
+                {
+                    "id": "31",
+                    "path": "Stills\/login screen.png"
+                },
+                {
+                    "id": "34",
+                    "path": "Animations\/xp"
+                },
+                {
+                    "id": "45",
+                    "path": "Animations\/bluehit"
+                },
+                {
+                    "id": "90",
+                    "path": "Scripts\/delay.js"
+                },
+                {
+                    "id": "91",
+                    "path": "Stills\/73_hitsplat_transparent.png"
+                },
+                {
+                    "id": "93",
+                    "path": "Stills\/bluehit_transparent.png"
+                },
+                {
+                    "id": "101",
+                    "path": "Scripts\/Script.js"
+                },
+                {
+                    "id": "106",
+                    "path": "Stills\/hes probably seen.png"
+                },
+                {
+                    "id": "107",
+                    "path": "Stills\/tries so hard.png"
+                },
+                {
+                    "id": "108",
+                    "path": "Stills\/mouse-cursor-png-mouse-cursor-png-566.png"
+                },
+                {
+                    "id": "110",
+                    "path": "Stills\/examine.png"
+                },
+                {
+                    "id": "112",
+                    "path": "Scripts\/motion_tracking_controller_2.js"
+                },
+                {
+                    "id": "120",
+                    "path": "Animations\/examine"
+                }
+            ]
+        }
+    }
+}
